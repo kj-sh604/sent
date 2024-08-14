@@ -1,0 +1,12 @@
+sent
+----------------
+
+Dependencies
+• Xlib
+• Xft
+• cairo
+
+----------------
+
+To Patch:
+patch -p1 < [NAME OF PATCH FILE].diff
