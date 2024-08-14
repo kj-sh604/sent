@@ -9,4 +9,4 @@ Dependencies
 ----------------
 
 To Patch:
-patch -p1 < [NAME OF PATCH FILE].diff
+patch -p1 < [LOCATION OF PATCH FILE].diff
