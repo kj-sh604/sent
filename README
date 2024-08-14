@@ -4,9 +4,10 @@ sent
 Dependencies
 • Xlib
 • Xft
-• cairo
+• farbfeld
+• cairo (sent-pdf patch)
 
 ----------------
 
 To Patch:
-patch -p1 < [LOCATION OF PATCH FILE].diff
+patch -p1 < [PATH TO PATCH DIFF]
